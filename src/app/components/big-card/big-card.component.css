@@ -1,0 +1,39 @@
+.container-big-card{
+  display: flex;
+  flex-direction:row;
+  margin: 30px 50px 15px 50px;
+}
+
+
+.big-card-img img{
+  padding: 5px;
+  width: 100%;
+  min-width: 400px;
+}
+
+.big-card-texts {
+  padding: 10px;
+  margin: 0 15px 10px 10px;
+  text-align: justify;
+}
+
+.big-card-texts h1 {
+  margin-top: 5px;
+}
+
+.big-card-texts p{
+  margin-top: 5px;
+  color: #3c3c3c;
+}
+
+.big-card-texts a{
+  text-decoration: none;
+  color: black;
+
+}
+
+.article-data{
+  color: #7c7c7c;
+}
+
+

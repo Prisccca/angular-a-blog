@@ -1,0 +1,17 @@
+.container-small-card {
+  max-width: 500px;
+}
+
+.container-small-card-content{
+  padding: 10px;
+  margin: 20px;
+}
+
+.small-card-img img{
+  width: 100%;
+  padding: 10px;
+}
+
+.small-card-texts {
+  padding: 5px;
+}
