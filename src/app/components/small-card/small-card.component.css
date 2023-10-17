@@ -1,5 +1,5 @@
 .container-small-card {
-  max-width: 500px;
+  max-width: 400px;
 }
 
 .container-small-card-content{
@@ -10,6 +10,7 @@
 .small-card-img img{
   width: 100%;
   padding: 10px;
+
 }
 
 .small-card-texts {

@@ -2,22 +2,18 @@
 
   <div class="container-small-card-content">
 
-    <a href="">
+    <a [routerLink]="['article',Id]">
       <div class="small-card-img">
-        <img src="/assets/placeholder.png" alt="">
+        <img src="{{ coverImage }}" alt="">
       </div>
     </a>
 
 
     <div class="small-card-texts">
-      <span class="small-card-data">19 de Maio de 2023</span>
-      <h4>Small Card Titulo Noticia</h4>
-      <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore commodi facere eius,
-      eligendi impedit reiciendis, maxime ad culpa velit, voluptatibus tenetur accusantium.
-      Incidunt nam animi suscipit esse eligendi adipisci exercitationem.
-      Pariatur facere nam quae qui officiis, commodi in? Alias praesentium saepe corrupti quidem,
-      a tempora corporis itaque iste tempore quos deleniti est.
-      Necessitatibus tempora blanditiis vero, quis nemo numquam in!</p>
+
+      <span class="small-card-data"> {{cardData}}</span>
+      <h4>{{ cardTitle}}</h4>
+      <p> {{cardDescription}}</p>
     </div>
 
 
