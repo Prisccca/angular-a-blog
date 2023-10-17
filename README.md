@@ -1,5 +1,36 @@
 # AngularABlog
 
+# Titulo
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Prisccca/modelo-README/blob/main/LICENCE)
+
+# Sobre o projeto
+
+Repositório dedicado ao projeto Angular Blog executado durante o Santander Bootcamp 2023 - Fullstack Java+Angular.
+
+Blog em layout de jornal para noticias, editoriais e imagens antigas.
+
+## Layout mobile
+
+prints comas imagens
+
+## Layout web
+
+prints comas imagens
+
+# Tecnologias utilizadas
+
+## Back end
+
+## Front end
+
+# Implementações Futuras
+
+Página de Editoriais
+Responsividade Mobile
+
+# Autor: Priscilla Falcão
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
